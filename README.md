@@ -1,4 +1,4 @@
-# GoogleMapsAutocomplete
+# Google Maps Autocomplete
 
 A small webpage that uses the Google Maps API to autocomplete any address inputted into the form. Uses Bootstrap styling and raw Javascript.
 
